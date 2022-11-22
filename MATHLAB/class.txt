@@ -1,8 +1,65 @@
+
+sin(x)---sine of angle x in radinas
+sind(x)---sine of angle x in degrees
+asin(x)----sine inverse of angle x in radinas
+asind(x)----sine inverse of angel x in degrees
+
+
 %a=22+5.1^2;
 %b=50-6.3^2;
 %c=a/b
 
 
-a=sqrt(4)
+
+
+%a=sqrt(41^2-5.2^2);
+%b=exp(5)-100.53;
+%c=a/b
+
+% (or)
+
+%c=(sqrt(41^2-5.2^2))/(exp(5)-100.53)
+
+
+
+%a=(nthroot(132,3));
+%b=log(500);
+%c=a+b/8
+
+
+
+% 5(a)
+
+%a=cos(7*pi/9);
+%b=tan(7/15*pi) 
+%c=sind(15);
+%d=a+b*c
+
+
+
+%6(a)
+
+%x=6.7;
+%a=0.01*x^5 - 1.4*x^3 + 80*x + 16.7
+
+
+
+%6(b)
+
+x=6.7;
+a=sqrt(x^3+exp(x)-51/x)
+
+
+%7(a)
+
+t=3.2;
+a=56*t;
+b=9.81;
+c=t^2/2;
+d=a-b*c
+
+
+
+
 
 
