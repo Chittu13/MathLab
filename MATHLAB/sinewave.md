@@ -1,3 +1,9 @@
+
+
+
+# sine & cos wave
+
+```matlab
 t = -pi:0.1:pi;
 a=sin(t);
 plot(t,a,'r')
@@ -10,5 +16,6 @@ plot(t,b,'b')
 title('sinewave');
 xlabel('amplitude');
 ylabel('time');
+```
 
 
