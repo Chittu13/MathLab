@@ -60,6 +60,37 @@ d=a-b*c
 
 
 
+date 8/12/2022__________________________
+
+try this in mathlab
+Ax=b
+
+x=inv(A)*b
+
+eye(2)
+eye(3) %identity matrix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
