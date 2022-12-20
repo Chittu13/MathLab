@@ -22,3 +22,29 @@ a=[1 2 3 4; 4 5 6 7; 7 8 9 10];
 % Multidimentsional Arrays
 % The array a is a 3-by-3 arrayl; we can add a third dimension to a, by providing the values like-\
 % a(:,:,2)=[1 2 3; 4 5 6; 7 8 9]
+ % a (:,:,1)
+ 
+ 
+ % b=rand(4,3,2)
+ % b(:,:,1)
+ % b(:,:,2)
+ 
+ 
+ % B=cat(dim,A1,A2....)
+ % a =[9 8 7 ; 6 5 4; 3 2 1]
+ % b =[1 2 3; 4 5 6; 7 8 9]
+ % c = cat(3,a,b,[2 3 1; 4 7 8; 3 9 0])
+ 
+ 
+ 
+ 
+ % x=[2.4, 2, 3, 5,78]
+ % length(x)
+ 
+ 
+ 
+% a =[1 2 3; 4 5 6; 7 8 9]
+% b= circshift(a,1)
+% c= circshift(a,[1,-1])
+
+
