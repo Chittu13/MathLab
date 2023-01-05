@@ -14,4 +14,5 @@ Reversed_Number = polyval(s(end:-1:1),10);
     else
         disp('the no. is not palindrome');
     end
-    ```
+ 
+ ```
