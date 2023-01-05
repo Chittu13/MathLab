@@ -34,6 +34,15 @@ min(A)
 
 ```matlab
 
+
+a=[1 2 3 4 5]
+sum=0;
+ for i=a
+     sum=sum+i;
+ end
+
+ sum
+
 ```
 
 
