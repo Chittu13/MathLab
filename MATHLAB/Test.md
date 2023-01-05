@@ -1,6 +1,6 @@
 1.Check if a number is palindrome
 
-```
+```matlab
 
 Number = 121
 
